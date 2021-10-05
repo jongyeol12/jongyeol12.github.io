@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "블로그 게시물 테스트"
-date:   
+date: 2021-10-6 21:03:36 +0530  
 categories: Javascript NodeJS
 ---
 ### 테스트
