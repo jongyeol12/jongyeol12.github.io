@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
+title:  클로저 함수
+date:   
 categories: Javascript NodeJS
 ---
 
