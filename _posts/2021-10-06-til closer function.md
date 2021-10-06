@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 클로저 함수
-date:  2021-10-6  
+date:  2021-10-6 21:10:36 +0530   
 categories: Javascript NodeJS
 ---
 
