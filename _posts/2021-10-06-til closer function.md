@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  클로저 함수
+title: 클로저 함수
 date:   
 categories: Javascript NodeJS
 ---
